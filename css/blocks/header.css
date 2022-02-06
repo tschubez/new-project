@@ -1,0 +1,29 @@
+.header {
+  height: 120px;
+}
+
+.header__container{
+  position: relative;
+}
+
+.logo {
+  top: 27px;
+  left: 0px;
+}
+
+.menu {
+  position: absolute;
+  top: 42px;
+  left: 250px;
+}
+
+ul li {
+  display: inline-block;
+}
+
+.contacts {
+  display: block;
+  position: absolute;
+  top: 26px;
+  right: 0px;
+}
