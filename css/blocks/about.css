@@ -1,0 +1,35 @@
+.about {
+  margin-bottom: 53px;
+}
+
+
+
+.about__about::before {
+  content:"";
+  display: inline-block;
+  vertical-align: top;
+  width: 490px;
+  height: 505px;
+  background:url(../../img/gates.png) center center / cover no-repeat ;
+}
+
+.about__desc {
+  display: inline-block;
+  padding: 70px 81px;
+  background: url(../../img/mountains.png);
+  width: 785px;
+  height: 455px;
+  margin-left: -144px;
+  margin-top: 102px;
+  border-radius: 5px;
+}
+
+.title--dark  {
+  margin-bottom: 31px;
+}
+
+.about__text {
+  color: #060606 ;
+  margin-bottom: 41px;
+}
+

@@ -1,12 +1,14 @@
 .header {
   height: 120px;
+  margin-bottom: 150px;
 }
 
-.header__container{
+.header__container {
   position: relative;
 }
 
 .logo {
+  position: absolute;
   top: 27px;
   left: 0px;
 }
@@ -17,13 +19,37 @@
   left: 250px;
 }
 
-ul li {
+.menu__item {
+  vertical-align: middle;
+  margin-right: 53px;
+}
+.menu__link {
+  font-size: 14px;
+}
+
+.menu__link:hover {
+  color: #da0100;
+}
+
+  ul li {
   display: inline-block;
 }
 
 .contacts {
-  display: block;
+  font-style: normal;
   position: absolute;
   top: 26px;
   right: 0px;
+  text-align: right;
+}
+
+.contacts__phone {
+  text-decoration: none;
+  font-size: 26px;
+  margin-bottom: 4px;
+}
+
+.contacts__workhours {
+  font-size: 13px;
+  text-decoration: underline;
 }

@@ -1,0 +1,54 @@
+.footer {
+  height: 93px;
+  margin-bottom: 44px;
+}
+.footer__container {
+  position: relative;
+
+}
+.logo__footer {
+  position: absolute;
+  top: 45px;
+  left: 0px;
+}
+
+.menu__footer {
+  position: absolute;
+  top: 59px;
+  left: 170px;
+}
+
+.menu__item {
+  vertical-align: bottom;
+}
+
+.networks {
+  display: inline-block;
+  position: absolute;
+  left: 675px;
+  top: 49px;
+}
+
+.networks__item {
+  width: 36px;
+  height: 36px;
+  margin-right: 10px;
+}
+
+
+.contacts__footer {
+  font-style: normal;
+  position: absolute;
+  top: 40px;
+  right: 0px;
+  text-align: right;
+}
+
+.contacts__footer .contacts__workhours {
+  font-size: 11px;
+  text-decoration: none;
+  color: #9A9A9A;
+  ;
+}
+
+
