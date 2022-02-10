@@ -3,7 +3,8 @@
 }
 
 .hello__title {
-  font-size: 72px;
+  font-weight: bold;
+  font-size: 48px;
   letter-spacing: 1.44px;
   margin-bottom: 27px;
 }
