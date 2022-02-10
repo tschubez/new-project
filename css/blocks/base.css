@@ -34,7 +34,6 @@ h3,
 h4,
 h5,
 h6  {
-  font-weight: normal;
   margin: 0;
 }
 
@@ -91,7 +90,7 @@ img {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 19px;
+  line-height: 16px;
   transition: 0.3s all;
   display: block;
   max-width: 168px;
@@ -118,7 +117,6 @@ img {
 
 .title {
   font-family: Open Sans;
-  font-style: normal;
   font-weight: bold;
   font-size: 36px;
   line-height: 1.42em;

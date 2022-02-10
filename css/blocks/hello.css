@@ -4,11 +4,13 @@
 
 .hello__title {
   font-weight: bold;
-  font-size: 48px;
+  font-size: 72px;
+  line-height: 84px;
   letter-spacing: 1.44px;
   margin-bottom: 27px;
 }
 .hello__text {
+font-style: normal;
 font-size: 18px;
 margin-bottom: 34px;
 }

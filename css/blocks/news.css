@@ -41,6 +41,7 @@
 }
 
 .news__title {
+  font-weight: bold;
   margin-bottom: 4px;
   font-size: 24px;
 }
@@ -63,12 +64,13 @@
   vertical-align: middle;
 }
 
-.paginator__item--activ .paginator__link {
+.paginator__item:hover{
   background-color: #fff;
   color: #F5170E;
+  border-radius: 50%;
 }
 
-.paginator__link {
+.paginator__link{
   display: block;
   width: 32px;
   height: 32px;

@@ -22,7 +22,7 @@
 
 .offers__content {
   padding: 33px 22px;
-  color: black;
+  color:#303030;;;
 }
 
 .offers__title {
@@ -49,6 +49,7 @@
 
 .offers__feature-text {
   display: inline-block;
+  color: #666666;
 }
 .offers__text {
   margin-bottom: 25px;
