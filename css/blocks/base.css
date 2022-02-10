@@ -104,6 +104,7 @@ img {
 }
 
 .button--light {
+  padding: 18px 44px;
   background: transparent;
   color: #da0100;
   border: 1px solid;
@@ -122,7 +123,7 @@ img {
   font-size: 36px;
   line-height: 1.42em;
   color: #ffffff;
-  margin-bottom: 51px;
+  margin-bottom: 41px;
 }
 
 .title--fire {
