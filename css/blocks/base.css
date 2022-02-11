@@ -58,6 +58,10 @@ img {
   max-height: 100%;
 }
 
+.body {
+  background: #001821;
+}
+
 .wrapper {
   overflow: hidden;
   min-height: 100%;
